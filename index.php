@@ -16,7 +16,7 @@
 <div class="currentlyplaying">
 
   <p id="songname">hello</p>
-    <p id="player"><audio class="stream" src = lain.mp3.m3u controls></p>
+    <p id="player"><audio class="stream" src = "https://lainchan.org/static/lain.mp3.m3u;" controls></p>
   <p id="info">
 </div>
 
